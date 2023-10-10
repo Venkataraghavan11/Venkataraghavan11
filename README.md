@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Venkataraghavan11
 - 👀 I’m interested in ... Codings
-- 🌱 I’m currently learning ... B.Tech(ECE)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m B.Tech(ECE) graduated
+- 💞️ I’m looking to collaborate on IT roll
 - 📫 How to reach me ... 
 
 <!---
